@@ -1,0 +1,21 @@
+body{
+    
+   background: linear-gradient(0deg, #FFFFFF 20%, #000000 50%);
+}
+
+
+h1{
+
+	font-size: 15px;
+	font-family: Helvetica;
+}
+
+h2{
+	font-size: 40px;
+	font-family: Helvetica;
+	text-align: center;
+
+}
+
+
+
