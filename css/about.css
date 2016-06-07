@@ -1,6 +1,16 @@
-body{
-    
-   background: linear-gradient(0deg, #FFFFFF 20%, #000000 50%);
+#blue{
+    float:left;
+    background-color:blue;
+    width:50%
+    height:100%;
+    color:black;
+}
+#black{
+    float:right;
+    background-color:black;
+    width:50%
+    height:100%;
+    color:white;
 }
 
 
