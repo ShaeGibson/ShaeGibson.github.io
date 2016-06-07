@@ -1,13 +1,10 @@
 body {
-     
-  background-image: url("ShaeGibson.github.io/images/bg.png");
+     background-image: url("/Users/shaylagibson/ShaeGibson.github.io/images/bg.png");
 background-size: cover;
   font-family: Arial;
   font-style: bold;
   color: #FFFFFF;
-
-
- 
+  margin: 40px;
 }
 
 
